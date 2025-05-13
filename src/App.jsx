@@ -1,5 +1,7 @@
 import './App.css'
-import Users from './Users'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import Users from './Components/Users'
 
 function App() {
 
